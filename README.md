@@ -82,4 +82,4 @@ The app ships with:
 
 ## Public release note
 
-The included amber logo and poster-style banners are prototype branding to match the requested Jurassic-style GUI. For a public open-source release, replacing them with original branding is the safer choice.
+The included amber logo and poster-style banners are prototype branding to match the Jurassic-style GUI.
