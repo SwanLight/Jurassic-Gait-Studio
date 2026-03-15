@@ -1,0 +1,33 @@
+{
+  "name": "theropod_template",
+  "species_group": "theropod",
+  "mass_kg": 35.0,
+  "height_m": 1.4,
+  "limb_lengths_m": {
+    "thigh": 0.32,
+    "shank": 0.36,
+    "metatarsus": 0.2,
+    "foot": 0.12,
+    "torso": 0.42,
+    "neck": 0.25,
+    "head": 0.16,
+    "tail": 0.55
+  },
+  "hip_width_ratio": 0.1,
+  "body_yaw_deg": 3.0,
+  "head_length_ratio": 1.15,
+  "trunk_depth_ratio": 0.12,
+  "neck_blend": 0.18,
+  "neck_min_pitch_deg": 8.0,
+  "neck_max_pitch_deg": 26.0,
+  "neck_forward_bias": 0.58,
+  "neck_up_bias": 0.04,
+  "head_blend": 0.15,
+  "head_min_pitch_deg": 0.0,
+  "head_max_pitch_deg": 16.0,
+  "head_forward_bias": 0.82,
+  "head_up_bias": 0.0,
+  "tail_blend": 0.1,
+  "tail_pitch_deg": 4.0,
+  "trunk_pitch_bias_deg": 2.0
+}

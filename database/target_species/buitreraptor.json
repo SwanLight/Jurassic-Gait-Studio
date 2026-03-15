@@ -1,0 +1,33 @@
+{
+  "name": "buitreraptor",
+  "species_group": "theropod",
+  "mass_kg": 8.0,
+  "height_m": 0.85,
+  "limb_lengths_m": {
+    "thigh": 0.19,
+    "shank": 0.22,
+    "metatarsus": 0.14,
+    "foot": 0.09,
+    "torso": 0.28,
+    "neck": 0.13,
+    "head": 0.11,
+    "tail": 0.72
+  },
+  "hip_width_ratio": 0.08,
+  "trunk_depth_ratio": 0.1,
+  "body_yaw_deg": 3.5,
+  "head_length_ratio": 1.18,
+  "neck_blend": 0.2,
+  "neck_min_pitch_deg": 4.0,
+  "neck_max_pitch_deg": 20.0,
+  "neck_forward_bias": 0.72,
+  "neck_up_bias": 0.03,
+  "head_blend": 0.18,
+  "head_min_pitch_deg": -2.0,
+  "head_max_pitch_deg": 12.0,
+  "head_forward_bias": 0.95,
+  "head_up_bias": 0.0,
+  "tail_blend": 0.08,
+  "tail_pitch_deg": 2.0,
+  "trunk_pitch_bias_deg": 2.0
+}

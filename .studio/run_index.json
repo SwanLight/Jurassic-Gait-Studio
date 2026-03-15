@@ -1,0 +1,52 @@
+[
+  {
+    "run_name": "run_001",
+    "target_stem": "heyuannia",
+    "target_species": "heyuannia",
+    "created_at": "2026-03-15T13:28:20",
+    "run_dir": "C:\\Users\\lhy\\OneDrive\\Desktop\\jurassic_gait_studio_v18_viewer_gif_consistency_fix\\runs\\heyuannia\\run_001",
+    "preview_gif": "C:\\Users\\lhy\\OneDrive\\Desktop\\jurassic_gait_studio_v18_viewer_gif_consistency_fix\\runs\\heyuannia\\run_001\\dinosaur3d.gif",
+    "preview_frame": "C:\\Users\\lhy\\OneDrive\\Desktop\\jurassic_gait_studio_v18_viewer_gif_consistency_fix\\runs\\heyuannia\\run_001\\dinosaur3d_frame0.png",
+    "report_path": "C:\\Users\\lhy\\OneDrive\\Desktop\\jurassic_gait_studio_v18_viewer_gif_consistency_fix\\runs\\heyuannia\\run_001\\session_report.json"
+  },
+  {
+    "run_name": "run_002",
+    "target_stem": "ornithomimid_template",
+    "target_species": "ornithomimid_template",
+    "created_at": "2026-03-15T14:09:57",
+    "run_dir": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\ornithomimid_template\\run_002",
+    "preview_gif": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\ornithomimid_template\\run_002\\dinosaur3d.gif",
+    "preview_frame": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\ornithomimid_template\\run_002\\dinosaur3d_frame0.png",
+    "report_path": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\ornithomimid_template\\run_002\\session_report.json"
+  },
+  {
+    "run_name": "run_002",
+    "target_stem": "heyuannia",
+    "target_species": "heyuannia",
+    "created_at": "2026-03-15T14:10:38",
+    "run_dir": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\heyuannia\\run_002",
+    "preview_gif": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\heyuannia\\run_002\\dinosaur3d.gif",
+    "preview_frame": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\heyuannia\\run_002\\dinosaur3d_frame0.png",
+    "report_path": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\heyuannia\\run_002\\session_report.json"
+  },
+  {
+    "run_name": "run_003",
+    "target_stem": "heyuannia",
+    "target_species": "heyuannia",
+    "created_at": "2026-03-15T14:11:53",
+    "run_dir": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\heyuannia\\run_003",
+    "preview_gif": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\heyuannia\\run_003\\dinosaur3d.gif",
+    "preview_frame": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\heyuannia\\run_003\\dinosaur3d_frame0.png",
+    "report_path": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\heyuannia\\run_003\\session_report.json"
+  },
+  {
+    "run_name": "run_004",
+    "target_stem": "heyuannia",
+    "target_species": "heyuannia",
+    "created_at": "2026-03-15T14:14:36",
+    "run_dir": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\heyuannia\\run_004",
+    "preview_gif": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\heyuannia\\run_004\\dinosaur3d.gif",
+    "preview_frame": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\heyuannia\\run_004\\dinosaur3d_frame0.png",
+    "report_path": "C:\\Users\\lhy\\OneDrive\\Desktop\\Jurassic Gait Studio\\runs\\heyuannia\\run_004\\session_report.json"
+  }
+]

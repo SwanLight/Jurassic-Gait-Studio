@@ -1,0 +1,33 @@
+{
+  "name": "qianzhousaurus",
+  "species_group": "theropod",
+  "mass_kg": 750.0,
+  "height_m": 2.6,
+  "limb_lengths_m": {
+    "thigh": 0.64,
+    "shank": 0.58,
+    "metatarsus": 0.3,
+    "foot": 0.22,
+    "torso": 0.92,
+    "neck": 0.34,
+    "head": 0.55,
+    "tail": 1.65
+  },
+  "hip_width_ratio": 0.13,
+  "trunk_depth_ratio": 0.16,
+  "body_yaw_deg": 2.2,
+  "head_length_ratio": 1.15,
+  "neck_blend": 0.12,
+  "neck_min_pitch_deg": 0.0,
+  "neck_max_pitch_deg": 18.0,
+  "neck_forward_bias": 0.75,
+  "neck_up_bias": 0.03,
+  "head_blend": 0.1,
+  "head_min_pitch_deg": -3.0,
+  "head_max_pitch_deg": 10.0,
+  "head_forward_bias": 1.0,
+  "head_up_bias": 0.0,
+  "tail_blend": 0.08,
+  "tail_pitch_deg": 3.0,
+  "trunk_pitch_bias_deg": 2.0
+}

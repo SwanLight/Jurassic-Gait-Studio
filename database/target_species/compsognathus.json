@@ -1,0 +1,33 @@
+{
+  "name": "compsognathus",
+  "species_group": "theropod",
+  "mass_kg": 3.0,
+  "height_m": 0.55,
+  "limb_lengths_m": {
+    "thigh": 0.13,
+    "shank": 0.15,
+    "metatarsus": 0.09,
+    "foot": 0.06,
+    "torso": 0.19,
+    "neck": 0.1,
+    "head": 0.08,
+    "tail": 0.52
+  },
+  "hip_width_ratio": 0.08,
+  "trunk_depth_ratio": 0.09,
+  "body_yaw_deg": 3.5,
+  "head_length_ratio": 1.05,
+  "neck_blend": 0.18,
+  "neck_min_pitch_deg": 8.0,
+  "neck_max_pitch_deg": 24.0,
+  "neck_forward_bias": 0.6,
+  "neck_up_bias": 0.04,
+  "head_blend": 0.16,
+  "head_min_pitch_deg": 0.0,
+  "head_max_pitch_deg": 16.0,
+  "head_forward_bias": 0.84,
+  "head_up_bias": 0.0,
+  "tail_blend": 0.1,
+  "tail_pitch_deg": 4.0,
+  "trunk_pitch_bias_deg": 2.0
+}

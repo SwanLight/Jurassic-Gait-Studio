@@ -1,0 +1,29 @@
+{
+  "name": "chicken",
+  "species_group": "bird",
+  "mass_kg": 2.6,
+  "height_m": 0.5,
+  "limb_lengths_m": {
+    "thigh": 0.099,
+    "shank": 0.138,
+    "metatarsus": 0.088,
+    "foot": 0.08,
+    "torso": 0.17,
+    "neck": 0.11,
+    "head": 0.06,
+    "tail": 0.1
+  },
+  "neck_blend": 0.6,
+  "neck_min_pitch_deg": 15.0,
+  "neck_max_pitch_deg": 55.0,
+  "neck_forward_bias": 0.1,
+  "neck_up_bias": 0.08,
+  "head_blend": 0.5,
+  "head_min_pitch_deg": 8.0,
+  "head_max_pitch_deg": 45.0,
+  "head_forward_bias": 0.12,
+  "head_up_bias": 0.04,
+  "tail_blend": 0.6,
+  "tail_pitch_deg": 10.0,
+  "trunk_pitch_bias_deg": 4.0
+}

@@ -1,0 +1,33 @@
+{
+  "name": "eotyrannus",
+  "species_group": "theropod",
+  "mass_kg": 450.0,
+  "height_m": 2.3,
+  "limb_lengths_m": {
+    "thigh": 0.55,
+    "shank": 0.52,
+    "metatarsus": 0.29,
+    "foot": 0.22,
+    "torso": 0.88,
+    "neck": 0.28,
+    "head": 0.38,
+    "tail": 1.55
+  },
+  "hip_width_ratio": 0.12,
+  "trunk_depth_ratio": 0.15,
+  "body_yaw_deg": 2.0,
+  "head_length_ratio": 1.08,
+  "neck_blend": 0.12,
+  "neck_min_pitch_deg": 2.0,
+  "neck_max_pitch_deg": 18.0,
+  "neck_forward_bias": 0.68,
+  "neck_up_bias": 0.02,
+  "head_blend": 0.1,
+  "head_min_pitch_deg": -4.0,
+  "head_max_pitch_deg": 8.0,
+  "head_forward_bias": 0.92,
+  "head_up_bias": 0.0,
+  "tail_blend": 0.08,
+  "tail_pitch_deg": 2.0,
+  "trunk_pitch_bias_deg": 1.0
+}

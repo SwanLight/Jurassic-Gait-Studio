@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jurassic-gait-studio"
+version = "3.0.0"
+description = "Theropod locomotion fusion studio with morphology editing and an interactive 3D viewer"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24",
+  "scipy>=1.10",
+  "pandas>=2.0",
+  "matplotlib>=3.7",
+  "imageio>=2.31",
+  "pillow>=10.0",
+  "customtkinter>=5.2",
+]
+
+[tool.setuptools.packages.find]
+include = ["jurassic_gait_studio*"]

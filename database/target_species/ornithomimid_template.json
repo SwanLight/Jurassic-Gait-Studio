@@ -1,0 +1,33 @@
+{
+  "name": "ornithomimid_template",
+  "species_group": "theropod",
+  "mass_kg": 90.0,
+  "height_m": 2.1,
+  "limb_lengths_m": {
+    "thigh": 0.36,
+    "shank": 0.44,
+    "metatarsus": 0.36,
+    "foot": 0.18,
+    "torso": 0.58,
+    "neck": 0.42,
+    "head": 0.18,
+    "tail": 0.82
+  },
+  "hip_width_ratio": 0.09,
+  "trunk_depth_ratio": 0.1,
+  "body_yaw_deg": 3.0,
+  "head_length_ratio": 1.08,
+  "neck_blend": 0.22,
+  "neck_min_pitch_deg": 8.0,
+  "neck_max_pitch_deg": 28.0,
+  "neck_forward_bias": 0.65,
+  "neck_up_bias": 0.04,
+  "head_blend": 0.2,
+  "head_min_pitch_deg": 2.0,
+  "head_max_pitch_deg": 18.0,
+  "head_forward_bias": 0.85,
+  "head_up_bias": 0.01,
+  "tail_blend": 0.1,
+  "tail_pitch_deg": 4.0,
+  "trunk_pitch_bias_deg": 2.0
+}

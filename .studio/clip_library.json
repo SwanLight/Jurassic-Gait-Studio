@@ -1,0 +1,22 @@
+[
+  {
+    "clip_id": "clip_50222ba4fb",
+    "name": "emu_01",
+    "species_stem": "emu",
+    "species_name": "emu",
+    "csv_path": "database/bird_clips/emu_01.csv",
+    "fps": 30.0,
+    "imported_at": "2026-03-14T16:21:21",
+    "notes": "Bundled demo sample"
+  },
+  {
+    "clip_id": "clip_a2c0e3adaa",
+    "name": "ostrich_01",
+    "species_stem": "ostrich",
+    "species_name": "ostrich",
+    "csv_path": "database/bird_clips/ostrich_01.csv",
+    "fps": 30.0,
+    "imported_at": "2026-03-14T16:21:22",
+    "notes": "Bundled demo sample"
+  }
+]

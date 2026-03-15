@@ -1,0 +1,33 @@
+{
+  "name": "ostrich",
+  "species_group": "bird",
+  "mass_kg": 95.0,
+  "height_m": 2.2,
+  "limb_lengths_m": {
+    "thigh": 0.36,
+    "shank": 0.5,
+    "metatarsus": 0.46,
+    "foot": 0.18,
+    "torso": 0.62,
+    "neck": 0.72,
+    "head": 0.18,
+    "tail": 0.08
+  },
+  "hip_width_ratio": 0.11,
+  "body_yaw_deg": 3.5,
+  "head_length_ratio": 1.0,
+  "trunk_depth_ratio": 0.12,
+  "neck_blend": 0.62,
+  "neck_min_pitch_deg": 28.0,
+  "neck_max_pitch_deg": 72.0,
+  "neck_forward_bias": 0.1,
+  "neck_up_bias": 0.18,
+  "head_blend": 0.58,
+  "head_min_pitch_deg": 18.0,
+  "head_max_pitch_deg": 70.0,
+  "head_forward_bias": 0.12,
+  "head_up_bias": 0.14,
+  "tail_blend": 0.65,
+  "tail_pitch_deg": 18.0,
+  "trunk_pitch_bias_deg": 2.0
+}

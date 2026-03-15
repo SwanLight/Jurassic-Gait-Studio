@@ -1,0 +1,33 @@
+{
+  "name": "rahonavis",
+  "species_group": "theropod",
+  "mass_kg": 1.4,
+  "height_m": 0.36,
+  "limb_lengths_m": {
+    "thigh": 0.08,
+    "shank": 0.1,
+    "metatarsus": 0.07,
+    "foot": 0.05,
+    "torso": 0.13,
+    "neck": 0.08,
+    "head": 0.05,
+    "tail": 0.28
+  },
+  "hip_width_ratio": 0.08,
+  "trunk_depth_ratio": 0.11,
+  "body_yaw_deg": 4.0,
+  "head_length_ratio": 1.0,
+  "neck_blend": 0.24,
+  "neck_min_pitch_deg": 8.0,
+  "neck_max_pitch_deg": 26.0,
+  "neck_forward_bias": 0.6,
+  "neck_up_bias": 0.04,
+  "head_blend": 0.18,
+  "head_min_pitch_deg": 0.0,
+  "head_max_pitch_deg": 18.0,
+  "head_forward_bias": 0.8,
+  "head_up_bias": 0.0,
+  "tail_blend": 0.1,
+  "tail_pitch_deg": 6.0,
+  "trunk_pitch_bias_deg": 3.0
+}

@@ -1,0 +1,29 @@
+{
+  "name": "emu",
+  "species_group": "bird",
+  "mass_kg": 40.0,
+  "height_m": 1.7,
+  "limb_lengths_m": {
+    "thigh": 0.232,
+    "shank": 0.437,
+    "metatarsus": 0.402,
+    "foot": 0.16,
+    "torso": 0.38,
+    "neck": 0.42,
+    "head": 0.14,
+    "tail": 0.06
+  },
+  "neck_blend": 0.58,
+  "neck_min_pitch_deg": 24.0,
+  "neck_max_pitch_deg": 68.0,
+  "neck_forward_bias": 0.12,
+  "neck_up_bias": 0.16,
+  "head_blend": 0.55,
+  "head_min_pitch_deg": 16.0,
+  "head_max_pitch_deg": 60.0,
+  "head_forward_bias": 0.12,
+  "head_up_bias": 0.1,
+  "tail_blend": 0.65,
+  "tail_pitch_deg": 15.0,
+  "trunk_pitch_bias_deg": 2.0
+}
