@@ -45,7 +45,7 @@ pip install -r requirements.txt
 python launch_studio.py
 ```
 
-## End-user workflow
+## User workflow
 
 1. Open **Library** and import bird species JSON files, bird motion CSV clips, or target dinosaur JSON files.
 2. Open **Morphology Lab** to edit a bird or theropod JSON in-app and preview the body shape before saving.
